@@ -1,2 +1,2 @@
 # spider-cof
-No API access :(
+No API access :/
